@@ -85,7 +85,6 @@
             this.outputLabel.Name = "outputLabel";
             this.outputLabel.Size = new System.Drawing.Size(300, 138);
             this.outputLabel.TabIndex = 5;
-            this.outputLabel.Text = "label1";
             // 
             // label1
             // 
